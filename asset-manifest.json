@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-erpsystem/static/css/main.14205784.css",
+    "main.js": "/react-erpsystem/static/js/main.907145ac.js",
+    "index.html": "/react-erpsystem/index.html",
+    "main.14205784.css.map": "/react-erpsystem/static/css/main.14205784.css.map",
+    "main.907145ac.js.map": "/react-erpsystem/static/js/main.907145ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14205784.css",
+    "static/js/main.907145ac.js"
+  ]
+}
