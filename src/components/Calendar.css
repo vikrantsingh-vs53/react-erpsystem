@@ -1,0 +1,16 @@
+/* src/components/Calendar.css */
+
+.calendar-container {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .selected-date-orders {
+    width: 40%;
+    margin-left: 20px;
+  }
+  
+  /* You can add more styling as needed */
+  
