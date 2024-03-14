@@ -18,9 +18,10 @@ This project is a simple Enterprise Resource Planning (ERP) system built using R
 
 ### Orders Management
 - Shows a list of orders, including details like order ID, customer name, order date, and status.
-- (Optional) Allows viewing of order details, updating the order status, and deletion of orders.
+- Allows viewing of order details, updating the order status, and deletion of orders.
+- Established a calendar
 
-## Usage
+## Steps to Use
 
 1. Clone the repository: https://github.com/vikrantsingh-vs53/react-erpsystem.git
 2. Install dependencies:
