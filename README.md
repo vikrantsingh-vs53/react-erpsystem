@@ -33,6 +33,17 @@ This project is a simple Enterprise Resource Planning (ERP) system built using R
 
 
 Screenshots:
+Homepage
+![image](https://github.com/vikrantsingh-vs53/react-erpsystem/assets/83511093/23b48050-a0a0-4b7d-9b6e-8863f720ac6e)
+
+ProductPage
+![image](https://github.com/vikrantsingh-vs53/react-erpsystem/assets/83511093/adae3951-c82b-440d-82b0-3b7222e9e3bc)
+
+Orders Page:
+![image](https://github.com/vikrantsingh-vs53/react-erpsystem/assets/83511093/14164366-bc9b-497f-a52b-bdc6399a5d97)
+
+
+
 
 
 
