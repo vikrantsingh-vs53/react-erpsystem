@@ -5,12 +5,15 @@
     justify-content: space-between;
     margin: auto;
     padding: 20px;
+    color: white;
   }
   
   .selected-date-orders {
     width: 40%;
     margin-left: 20px;
+    color: white;
   }
+  
   
   /* You can add more styling as needed */
   
